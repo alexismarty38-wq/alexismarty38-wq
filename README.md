@@ -1,16 +1,21 @@
-## Hi there 👋
+# Alexis Marty-Navarro
 
-<!--
-**alexismarty38-wq/alexismarty38-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Microelectronics and Embedded Systems Engineering Apprentice, working in Quality and Reliability.
 
-Here are some ideas to get you started:
+Currently completing an engineering degree at CPE Lyon alongside an apprenticeship at STMicroelectronics, my work focuses on qualification plan management. I am building expertise at the intersection of hardware design, embedded development, and test data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+*   **Hardware Design & Simulation:** VHDL, LTSpice, Cadence environment.
+*   **Embedded Systems:** C (STM32 Microcontrollers, hardware communication protocols e.g., UART).
+*   **Quality & Automation:** Python (data processing, test automation), reliability analysis.
+*   **Engineering & Documentation:** LaTeX, Git, hardware troubleshooting (PCB repair and reverse engineering).
+
+## Main Projects
+
+
+
+## Contact
+
+*   **Email:** alexis.marty-navarro@cpe.fr
+*   **LinkedIn:** www.linkedin.com/in/alexis-marty-navarro
